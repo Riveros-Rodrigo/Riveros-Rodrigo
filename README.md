@@ -1,5 +1,5 @@
-<h1 align="center">Hola 🙋‍♂️, soy Rodrigo Riveros</h1>
-<h3 align="center">Hola! 🙋‍♂️ Soy Rodrigo Riveros un apasionado de la programacion, llevo estudiando mas de 2 años del lado de desarrollado front end y actualmente estoy en proceso de ser full stack 💻. Vivo en Buenos Aires Argentina 📍. ¡Mi objetivo es seguir formándome y encontrar un puesto en el que pueda poner en práctica todo lo que he estudiado en mi vida académica!📚</h3>
+<h1 align="center">Hola 🙋‍♂️. Soy Rodrigo Riveros</h1>
+<h3 align="center">Un apasionado de la programacion, llevo estudiando mas de 2 años del lado de desarrollado front end y actualmente estoy en proceso de ser full stack 💻. Vivo en Buenos Aires Argentina 📍. ¡Mi objetivo es seguir formándome y encontrar un puesto en el que pueda poner en práctica todo lo que he estudiado en mi vida académica!📚</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://rodrigoriveros-portfolio.netlify.app](https://rodrigoriveros-portfolio.netlify.app)
 
