@@ -5,7 +5,7 @@
 
 - 📫 Como contactarme **rodrigoezequiel.riveros@gmail.com**
 
-- 📄 Conozca mis experiencias [https://drive.google.com/file/d/1tnos7TM6btsfOYR1qGW_5C3XRy6oFpfo/view?usp=sharing](https://drive.google.com/file/d/1tnos7TM6btsfOYR1qGW_5C3XRy6oFpfo/view?usp=sharing)
+- 📄 Conozca mis experiencias [https://drive.google.com/file/d/1tnos7TM6btsfOYR1qGW_5C3XRy6oFpfo/view?usp=sharing]([https://drive.google.com/file/d/1tnos7TM6btsfOYR1qGW_5C3XRy6oFpfo/view?usp=sharing](https://drive.google.com/drive/folders/1TkfmRfMNKCki5taRUouniYCQsbiSruMd?usp=sharing))
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
